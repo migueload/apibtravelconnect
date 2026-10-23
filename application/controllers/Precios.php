@@ -19,6 +19,7 @@ class Precios extends RestApi_Controller
 
         $this->load->model('Precios_model');
     }
+    
 
     /**
      * GET - Precio internacional del oro
