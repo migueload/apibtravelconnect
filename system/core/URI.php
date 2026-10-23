@@ -56,6 +56,7 @@ class CI_URI {
 	 *
 	 * @var	array
 	 */
+	public $config;
 	public $keyval = array();
 
 	/**
